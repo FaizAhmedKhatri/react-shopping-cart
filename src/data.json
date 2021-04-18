@@ -1,0 +1,47 @@
+{
+    "products" : [
+        {"_id" : "tshirt1",
+         "title" : "Cotton T=shirt",
+         "image" : "/images/tshirt-1.png",
+         "description" : "Flat 25% off ",
+         "price" : "399",
+         "availableSizes" : ["S","M","L","XL"]
+        },
+        {"_id" : "tshirt2",
+            "title" : "Cotton T=shirt",
+            "image" : "/images/tshirt-2.png",
+            "description" : "Flat 25% off ",
+            "price" : "349",
+            "availableSizes" : ["M","L","XL"]
+        },
+        {"_id" : "tshirt3",
+            "title" : "Cotton T=shirt",
+            "image" : "/images/tshirt-1.png",
+            "description" : "Flat 25% off ",
+            "price" : "299",
+            "availableSizes" : ["S","M","L"]
+        },
+        {"_id" : "tshirt4",
+            "title" : "Cotton T=shirt",
+            "image" : "/images/tshirt-2.png",
+            "description" : "Flat 25% off ",
+            "price" : "499",
+            "availableSizes" : ["S","M","XL"]
+        },
+        {"_id" : "tshirt5",
+            "title" : "Cotton T=shirt",
+            "image" : "/images/tshirt-1.png",
+            "description" : "Flat 25% off ",
+            "price" : "599",
+            "availableSizes" : ["S","M"]
+        },
+        {"_id" : "tshirt6",
+            "title" : "Cotton T=shirt",
+            "image" : "/images/tshirt-2.png",
+            "description" : "Flat 25% off ",
+            "price" : "449",
+            "availableSizes" : ["S","M","L","XL","XXL"]
+        }
+
+    ]
+}
